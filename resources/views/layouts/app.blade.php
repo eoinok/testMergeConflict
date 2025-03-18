@@ -23,6 +23,9 @@
               <li class="nav-item">
                 <a class="nav-link" href=https://laracasts.com/>Laravel Video Tutorials</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href=#testmerge>Adding a testmerge link to the navbar</a>
+              </li>
             </ul>
           </div>
         </nav>
