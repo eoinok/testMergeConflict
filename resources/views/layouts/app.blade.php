@@ -23,6 +23,9 @@
               <li class="nav-item">
                 <a class="nav-link" href=https://laracasts.com/>Laravel Video Tutorials</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#linkForTennisclub"/>Tennisclub Link</a>
+              </li>
             </ul>
           </div>
         </nav>
